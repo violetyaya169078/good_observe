@@ -25,7 +25,7 @@ Other conditions like extinction and brightness[2] depends alot on the sky backg
 
 <a id='steps'></a>
 ## Steps
-Investigation of the site should start with the geographical environment, giving the first information of where the observatory stand. In the overall dataset, cloud coverage(<25%), wind speed(<15m/s) and visibility are the critical parameters of defining a clear sky. The percentage of the relative humidity(<90%) could tell the environmental condition of setting up a telescope. Next, we should observe whether this place have a stable climate by looking at its average temperature in all years. And finally, we will take a look at the photometric and spectroscopic nights[3]  
+Investigation of the site should start with the geographical environment, giving the first information of where the observatory stand. In the overall dataset, cloud coverage(<25%), wind speed(<15m/s) and visibility are the critical parameters of defining a clear sky. The percentage of the relative humidity(<90%) could tell the environmental condition of setting up a telescope. Next, we should observe whether this place have a stable climate by looking at its temperature variation in different seasons. And finally, we will take a look at the photometric and spectroscopic nights[3]  
 ###### [3] Photometric and spectroscopic night : A photometric night is a night where the sky is clear and transparent at least six hours or the whole summer night. A spectroscopic night can be a bit lighter and partial cloudy (extinction < 0.5 magnitudes and obscuration < 50% above 30 degree elevation).
 
 <a id='GE'></a>
