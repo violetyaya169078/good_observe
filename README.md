@@ -31,7 +31,7 @@ Investigation of the site should start with the geographical environment, giving
 
 <a id='slide'></a>
 ## Slide Deck
-To view the html slide for the `observe_slide_deck` file, input the following code in your prompt  
+To view the html slide for the `observe_slide_deck` file, input the following comment in your prompt.  
 ```
 jupyter nbconvert FILE_NAME.ipynb --to slides --post serve --template output_toggle
 ```
