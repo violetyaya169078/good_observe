@@ -49,7 +49,7 @@ Located at the north west of Taiwan, Zhongli has an estimated population 397,083
 
 <a id='PD'></a>
 ## Parameters Definition
-* Cloud Ccover : Percentage of the cloud coverage, it `can't represent the layer of the cloud`.
+* Cloud cover : Percentage of the cloud coverage, it `can't represent the layer of the cloud`.
 * Visibility (miles) : Measure of distance at which an object or light can be clearly discerned, varies from the direction and angle of view, and the height of the observatory, affected by the presence of fog, cloud, haze and precipitation (Scales from 0 (poor) to 11 (pure)).
 
 <a id='UR'></a>
