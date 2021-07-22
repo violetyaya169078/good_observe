@@ -51,3 +51,4 @@ Located at the north west of Taiwan, Zhongli has an estimated population 397,083
 [3][Basic numerical range and its conditions](https://www.weather.gov/bgm/forecast_terms)  
 [4][Site Quality](http://www.ing.iac.es/astronomy/observing/conditions/#ext)  
 [5][Analysis of the atmospheric visibility Restoration and fog attenuation](https://www.semanticscholar.org/paper/Analysis-of-the-atmospheric-visibility-Restoration-Deshpande/662237bb893d2b50a728751880f20cf1f8225aef)  
+[6][Historical weather API](https://www.visualcrossing.com/weather-data)
